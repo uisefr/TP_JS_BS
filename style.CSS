@@ -1,0 +1,44 @@
+    body {
+      background-image: url('creation-et-entretien-de-paysage-interieur-hotel-de-luxe-et-palace-_copyright_sauvaje-1280x721.jpg');
+      background-size: cover;
+      background-position: center;
+      font-family: Arial, sans-serif;
+    }
+    .form-section, .confirmation-section {
+      background-color: rgba(173, 154, 179, 0.9);
+      border-radius: 8px;
+      padding: 20px;
+      margin: 20px;
+    }
+    .confirmation-section {
+      background-color: rgba(173, 208, 255, 0.95);
+    }
+    .header-bar {
+      background-color: #add8e6;
+      color: darkblue;
+      padding: 10px;
+      text-align: center;
+      font-weight: bold;
+      border-bottom: 2px solid #d00;
+    }
+    .footer-bar {
+      background-color: red;
+      color: yellow;
+      text-align: center;
+      font-weight: bold;
+      padding: 5px;
+    }
+    label {
+      font-weight: bold;
+    }
+    .btn-group {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .background-img {
+      background-image: url('fond_hotel.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+    }
